@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarsalesDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="vehicle_type">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vehicles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Make" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Engine" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Doors" Type="int" />
+    <Property Name="Wheels" Type="int" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="VehType" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CarsalesDBModelStoreContainer">
+    <EntitySet Name="vehicle_type" EntityType="Self.vehicle_type" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vehicles" EntityType="Self.vehicles" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
