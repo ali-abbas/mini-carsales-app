@@ -9,3 +9,13 @@ C:\Users\Zille Subhani\source\repos\CarsalesApp\CarsalesDataAccess\obj\Debug\Car
 C:\Users\Zille Subhani\source\repos\CarsalesApp\CarsalesDataAccess\obj\Debug\CarsalesDataAccess.dll
 C:\Users\Zille Subhani\source\repos\CarsalesApp\CarsalesDataAccess\obj\Debug\CarsalesDataAccess.pdb
 C:\Users\Zille Subhani\source\repos\CarsalesApp\CarsalesDataAccess\obj\Debug\CarsalesDataAccess.csprojResolveAssemblyReference.cache
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\CarsalesDataAccess.dll.config
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\CarsalesDataAccess.dll
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\CarsalesDataAccess.pdb
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\EntityFramework.dll
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\EntityFramework.xml
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\obj\Debug\CarsalesDataAccess.csproj.CoreCompileInputs.cache
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\obj\Debug\CarsalesDataAccess.dll
+D:\Carsales_App_Git\mini-carsales-app\CarsalesApp\CarsalesDataAccess\obj\Debug\CarsalesDataAccess.pdb
